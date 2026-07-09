@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="150dp"
+    android:viewportWidth="100"
+    android:viewportHeight="75">
+    <!-- Class 1 -->
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M10,10 H40 V40 H10 Z" />
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M10,20 H40 M10,30 H40" />
+    <!-- Class 2 -->
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M60,10 H90 V40 H60 Z" />
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M60,20 H90 M60,30 H90" />
+    <!-- Relationship -->
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M40,25 L60,25" />
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M55,22 L60,25 L55,28" />
+</vector>

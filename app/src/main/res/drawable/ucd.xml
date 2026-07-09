@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="150dp"
+    android:viewportWidth="100"
+    android:viewportHeight="75">
+    <!-- Actor -->
+    <path android:fillColor="#000000" android:pathData="M15,20m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M15,23 L15,35 M10,26 L20,26 M15,35 L10,45 M15,35 L20,45" />
+    <!-- System Boundary -->
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M30,10 H90 V65 H30 Z" />
+    <!-- Use Cases -->
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M60,25 m-15,0 a15,5 0,1 1,30 0 a15,5 0,1 1,-30 0" />
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M60,45 m-15,0 a15,5 0,1 1,30 0 a15,5 0,1 1,-30 0" />
+    <!-- Associations -->
+    <path android:strokeColor="#000000" android:strokeWidth="0.5" android:pathData="M20,30 L45,25 M20,30 L45,45" />
+</vector>

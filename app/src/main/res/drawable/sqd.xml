@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="150dp"
+    android:viewportWidth="100"
+    android:viewportHeight="75">
+    <!-- Lifelines -->
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M20,10 L20,65 M50,10 L50,65 M80,10 L80,65" />
+    <path android:fillColor="#EEEEEE" android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M10,5 H30 V10 H10 Z M40,5 H60 V10 H40 Z M70,5 H90 V10 H70 Z" />
+    <!-- Messages -->
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M20,20 L50,20" />
+    <path android:fillColor="#000000" android:pathData="M47,18 L50,20 L47,22 Z" />
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M50,35 L80,35" />
+    <path android:fillColor="#000000" android:pathData="M77,33 L80,35 L77,37 Z" />
+    <path android:strokeColor="#000000" android:strokeWidth="1" android:pathData="M80,50 L50,50" />
+    <path android:fillColor="#000000" android:pathData="M53,48 L50,50 L53,52 Z" />
+</vector>
