@@ -1,4 +1,11 @@
 <resources>
-    <string name="app_name">Kritsada_67102122111</string>
-    <string name="devName">Developer: "Kritsada"</string>
+    <string name="app_name">My Profile - Kritsada</string>
+    <string name="devName">นาย กฤษฎา ศรีคิลิน</string>
+    <string name="student_id">รหัสนักศึกษา: 67102122111</string>
+    <string name="student_year">นักศึกษาปีที่ 3</string>
+    <string name="faculty">คณะวิทยาศาสตร์และเทคโนโลยี</string>
+    <string name="major">สาขา เทคโนโลยีคอมพิวเตอร์และดิจิทัล</string>
+    <string name="position">รองนายกสโมสรนักศึกษา ปีการศึกษา 2569</string>
+    <string name="phone">095-393-9270</string>
+    <string name="email">kritsada.sr67@snru.ac.th</string>
 </resources>
