@@ -66,7 +66,7 @@ fun ProfileScreen() {
             shadowElevation = 8.dp
         ) {
             Image(
-                painter = painterResource(id = R.drawable.eger), // Placeholder: Change to your image resource
+                painter = painterResource(id = R.drawable.profile_pic), // Updated to your provided image
                 contentDescription = "Profile Picture",
                 contentScale = ContentScale.Crop,
                 modifier = Modifier.clip(CircleShape)
